@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357868052006",
+    "project_id": "odbiory-f4bfa",
+    "storage_bucket": "odbiory-f4bfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357868052006:android:687c170e499de75b9c50e7",
+        "android_client_info": {
+          "package_name": "com.adrianczerwinski.odbiory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357868052006-it6cr11vff119s9a4mitnhqe81u1on93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2-SKTlSdXDvCu1hj1N93J6Asy-_DXt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357868052006-it6cr11vff119s9a4mitnhqe81u1on93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
